@@ -1,5 +1,24 @@
 # egui_phosphor
 
+> **This is `egui-pop-phosphor`, a maintained fork of
+> [egui-phosphor](https://github.com/amPerl/egui-phosphor) by Romet Tagobert
+> and its contributors, published only to provide a release for egui 0.37.**
+> It carries upstream's pending update
+> ([amPerl/egui-phosphor#49](https://github.com/amPerl/egui-phosphor/pull/49))
+> and nothing else. All credit goes to upstream's authors and to the
+> [Phosphor Icons](https://phosphoricons.com/) project
+> ([source](https://github.com/phosphor-icons/core)) for the icons, whose MIT
+> licence ships as `LICENSE-PHOSPHOR`.
+> This fork will be retired once upstream releases for egui 0.37: switch
+> back to `egui-phosphor` then.
+>
+> The library keeps its name, so code still uses `egui_phosphor::…`. Depend
+> on it under the upstream name with:
+>
+> ```toml
+> egui-phosphor = { package = "egui-pop-phosphor", version = "0.15" }
+> ```
+
 Bundles [Phosphor icons](https://phosphoricons.com/) with boilerplate to use in your egui app.
 
 ## Installation
