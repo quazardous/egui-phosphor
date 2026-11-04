@@ -7,7 +7,8 @@
 > ([amPerl/egui-phosphor#49](https://github.com/amPerl/egui-phosphor/pull/49))
 > and nothing else. All credit goes to upstream's authors and to the
 > [Phosphor Icons](https://phosphoricons.com/) project
-> ([source](https://github.com/phosphor-icons/core)) for the icons.
+> ([source](https://github.com/phosphor-icons/core)) for the icons, whose MIT
+> licence ships as `LICENSE-PHOSPHOR`.
 > This fork will be retired once upstream releases for egui 0.37: switch
 > back to `egui-phosphor` then.
 >
