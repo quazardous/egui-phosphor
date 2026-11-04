@@ -1,10 +1,16 @@
 [package]
-name = "egui-phosphor"
-description = "Phosphor icons for egui"
-version = "0.14.0"
+name = "egui-pop-phosphor"
+description = "Phosphor icons for egui: a maintained fork of egui-phosphor for egui 0.37, until upstream releases"
+version = "0.15.0"
 edition = "2021"
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/amPerl/egui-phosphor"
+repository = "https://github.com/quazardous/egui-phosphor"
+readme = "README.md"
+keywords = ["egui", "icons", "phosphor", "font"]
+categories = ["gui"]
+
+[lib]
+name = "egui_phosphor"
 
 [dependencies]
 egui = { version = "0.37", default-features = false }

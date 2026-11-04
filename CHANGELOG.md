@@ -1,5 +1,12 @@
 # egui-phosphor changelog
 
+## 0.15.0 (egui-pop-phosphor) - unreleased
+
+- Published as `egui-pop-phosphor`, a fork of egui-phosphor, until upstream
+  releases for egui 0.37. The library is still named `egui_phosphor`.
+- Updated to egui 0.37
+  - [#49](https://github.com/amPerl/egui-phosphor/pull/49) by [@xangelix](https://github.com/xangelix), upstream's pending pull request
+
 ## 0.14.0 - 2026-09-10
 
 - Updated to egui 0.36
